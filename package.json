@@ -1,0 +1,22 @@
+{
+  "name": "midiediter",
+  "version": "1.0.0",
+  "description": "online midi pedal editier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikePanagos/MidiEditer.git"
+  },
+  "keywords": [
+    "midi"
+  ],
+  "author": "Michael Elias Panagos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikePanagos/MidiEditer/issues"
+  },
+  "homepage": "https://github.com/mikePanagos/MidiEditer#readme"
+}
